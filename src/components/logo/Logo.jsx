@@ -2,7 +2,9 @@ const Logo = () => {
     return (
         <>
             <div >
-                <img src="./bki-logo.png" alt="bk-insurance"/>
+                <a href="https://www.bkinsurance.rw/" target="#" className="cursor-pointer">
+                    <img src="./bki-logo.png" alt="bk-insurance"/>
+                 </a>
             </div>
 
             <div className="mt-8">
